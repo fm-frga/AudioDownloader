@@ -9,7 +9,7 @@ This application allows you to download audio from YouTube playlists in various 
 - User-friendly graphical interface
 - Concurrent downloads for faster processing
 - Easily extensible to support additional audio formats
-- Cross-platform support (Windows & Linux)
+- Windows only
 
 ## Installation
 
@@ -68,36 +68,10 @@ This application allows you to download audio from YouTube playlists in various 
    pip install -r requirements.txt
    ```
 
-### Linux (Ubuntu/Debian)
-
-1. Install Python and FFmpeg:
-   ```
-   sudo apt update
-   sudo apt install python3 python3-venv ffmpeg
-   ```
-
-2. Clone the repository:
-   ```
-   git clone https://github.com/your-username/youtube-playlist-audio-downloader.git
-   cd youtube-playlist-audio-downloader
-   ```
-
-3. Create a virtual environment:
-   ```
-   python3 -m venv YourVenvName
-   source venv/bin/activate
-   ```
-
-4. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. Activate the virtual environment (if not already activated):
    - Windows: `venv\Scripts\activate`
-   - Linux: `source venv/bin/activate`
 
 2. Run the application:
    ```
