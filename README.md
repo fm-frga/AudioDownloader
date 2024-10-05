@@ -147,7 +147,7 @@ See `requirements.txt` for a list of Python dependencies. The main dependencies 
 
 ## License
 
-[MIT License](LICENSE)
+[MIT License]([LICENSE](https://en.wikipedia.org/wiki/MIT_License))
 
 ## Disclaimer
 
