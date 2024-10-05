@@ -9,7 +9,7 @@ This application allows you to download audio from YouTube playlists in various 
 - User-friendly graphical interface
 - Concurrent downloads for faster processing
 - Easily extensible to support additional audio formats
-- Cross-platform support (Windows, macOS, Linux)
+- Cross-platform support (Windows & Linux)
 
 ## Installation
 
@@ -97,7 +97,7 @@ This application allows you to download audio from YouTube playlists in various 
 
 1. Activate the virtual environment (if not already activated):
    - Windows: `venv\Scripts\activate`
-   - macOS/Linux: `source venv/bin/activate`
+   - Linux: `source venv/bin/activate`
 
 2. Run the application:
    ```
