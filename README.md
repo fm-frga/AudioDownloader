@@ -11,6 +11,8 @@ This application allows you to download audio from YouTube playlists in various 
 - Easily extensible to support additional audio formats
 - Windows only
 
+  ![YouTube Playlist Audio Downloader](https://raw.githubusercontent.com/fm-frga/AudioDownloader/refs/heads/master/too.png "YouTube Playlist Audio Downloader")
+
 ## Installation
 
 ### Prerequisites
